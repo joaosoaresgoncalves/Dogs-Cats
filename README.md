@@ -1,2 +1,2 @@
 # Dogs-Cats
-Linkedin article
+Open my first file through jupyter notebook and give it a try!!
